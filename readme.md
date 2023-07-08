@@ -6,10 +6,13 @@ Give your project a meaningful name.
 
 - [Links](#links)
 - [Description](#description)
+- [Screenshots](#screenshots)
 - [Demo](#demo)
 - [Features](#features)
+- [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
+- [What I Learned](#what-i-learned)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -22,6 +25,10 @@ Give your project a meaningful name.
 
 Provide a brief description of your project, highlighting its main purpose and features.
 
+## Screenshots
+
+![Alt text](<assets/images/Fav-icon.png>)
+
 ## Demo
 
 Include a link to a live demo of your project, if available. You can use services like GitHub Pages, Netlify, or Heroku to host your project.
@@ -30,6 +37,16 @@ Include a link to a live demo of your project, if available. You can use service
 
 List the main features and functionalities of your project. You can use bullet points or a numbered list.
 
+## Technologies Used
+
+Mention the technologies, tools, and frameworks used in your project. For example:
+
+- HTML
+- CSS
+- FlexBox
+- JavaScript
+- ES6
+
 ## Installation
 
 Provide instructions on how to install and set up your project. Include any dependencies or prerequisites that need to be installed.
@@ -37,6 +54,10 @@ Provide instructions on how to install and set up your project. Include any depe
 ## Usage
 
 Explain how to use your project. You can provide code examples, screenshots, or even GIFs to demonstrate its usage.
+
+## What I Learned
+
+Share what you learned while working on this project. You can mention any new concepts, techniques, or insights gained through the development process. This section can be valuable for personal reflection and to showcase your growth as a developer.
 
 ## Contributing
 
